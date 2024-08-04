@@ -1,1 +1,4 @@
 python-dotenv
+datasets
+# torch
+ollama
