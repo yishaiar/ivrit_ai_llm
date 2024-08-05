@@ -2,3 +2,5 @@ python-dotenv
 datasets
 # torch
 ollama
+
+pandas
