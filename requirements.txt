@@ -1,14 +1,21 @@
 python-dotenv
+IProgress
+ipywidgets
 datasets
 
 ollama
 
+numpy
 pandas
 scipy
+scikit-learn
 openai
 
+torch
+transformers
 
-# transformers
-# torch
 # #yams tokenizer
-# sentencepiece
+protobuf
+sentencepiece
+
+bert_score
