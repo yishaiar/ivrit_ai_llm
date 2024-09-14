@@ -1,3 +1,6 @@
-git -c http.sslVerify=false clone  git -c http.sslVerify=false clone https://huggingface.co/datasets/ivrit-ai/audio-transcripts.git
+git -c http.sslVerify=false clone https://huggingface.co/datasets/ivrit-ai/audio-transcripts.git
+git -c http.sslVerify=false clone https://huggingface.co/datasets/ivrit-ai/whisper-training.git
+git -c http.sslVerify=false clone https://huggingface.co/datasets/ivrit-ai/crowd-transcribe-v4.git
+
 YARIELI
 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

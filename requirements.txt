@@ -1,4 +1,14 @@
 python-dotenv
 datasets
-# torch
+
 ollama
+
+pandas
+scipy
+openai
+
+
+# transformers
+# torch
+# #yams tokenizer
+# sentencepiece

@@ -9,3 +9,7 @@ __pycache__/
 *.mat
 
 
+audio-transcripts/
+whisper-training/
+
+

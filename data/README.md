@@ -1,2 +1,27 @@
 # Getting started
 the place to store data files and model weights 
+
+find fonetic errors & systematic errors and fix with llm 
+steps:
+1. preprocess data and remove formatting (for analysis usage)
+2. 
+    a. find common fonetic mistakes like switching between verbs aleph\hey etc
+        use hebrew tokenizer and llm to find
+    b. find consistant mistakes which are not good translation (such as japanese)
+        fonetic translation  using llm
+3. fix to a better fonetic option using llm and whole sentence context
+4 metrics: bertscore to find if result is closer to translation
+
+
+find fonetic errors & systematic errors and fix with llm 
+steps:
+1. preprocess data and remove formatting (for analysis usage)
+2. 
+    a. find common fonetic mistakes like switching between verbs aleph\hey etc
+        use hebrew tokenizer and llm to find
+    b. find consistant mistakes which are not good translation (such as japanese)
+        fonetic translation  using llm
+3. fix to a better fonetic option using llm and whole sentence context
+4 metrics: 
+    a. bertscore to find if result is closer to translation
+    b. hebrew tokenizer and than word error rate

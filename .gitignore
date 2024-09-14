@@ -3,11 +3,15 @@ __pycache__/
 .git/
 .vscode/
 .venv/
+data/
+golden_data/
 
 *.pyc
 *.cfg
 *.mat
+*.json
+#python-milon-master
 
 
-audio-transcripts/
+
 
