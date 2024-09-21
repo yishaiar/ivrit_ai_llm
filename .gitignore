@@ -4,7 +4,7 @@ __pycache__/
 .vscode/
 .venv/
 data/
-
+1.venv1/
 
 *.pyc
 *.cfg

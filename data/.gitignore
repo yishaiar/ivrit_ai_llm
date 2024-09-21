@@ -13,3 +13,5 @@ audio-transcripts/
 whisper-training/
 
 
+dictabert/
+bert-base-uncased/
