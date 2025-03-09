@@ -19,3 +19,6 @@ protobuf
 sentencepiece
 
 bert_score
+
+nltk
+jiwer 

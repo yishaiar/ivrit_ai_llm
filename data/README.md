@@ -25,3 +25,9 @@ steps:
 4 metrics: 
     a. bertscore to find if result is closer to translation
     b. hebrew tokenizer and than word error rate
+
+
+possible mistakes:
+1. model is snot sure what he heard and uses the closest word (low log prob)
+2. model did not learn well and had a mistake
+    
